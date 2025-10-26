@@ -1,0 +1,1 @@
+使用lora微调qwen2-audio，同时打开project层以及在speech encode后面添加一个adapter模块进行抑郁症特征的提取，目标进行抑郁症识别
